@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# covidTracker
-=======
-# covid_tracker
+## App Covid Tracker - Flutter
+- Package
+* http
+* syncfusion_flutter_charts
+* syncfusion_flutter_maps
+* webfeed
+* internet_connection_checker
+* connectivity_plus
+* webview_flutter
+* intl
+* url_launcher
+- Api
+* Api page https://covid19.gov.vn/ 
+* RSS thanhnien.vn/rss/thoi-su/dan-sinh-176.rss 
+- Chức năng
+* Xem các thông tin về triệu chứng Covid-19 và cách phòng bệnh từ bộ y tế. 
+* Nhận thông tin cập nhật mới nhất 24/24 từ bộ y tế 
+* Xem biểu đồ thống kê các trường hợp Covid-19 theo từng ngày trong 7 ngày.
+* Xem số liệu thống kê các trường hợp của từng tỉnh thành từ trước đến nay và trong 24h qua.
+* Xem bản đồ nhiễm bệnh Covid-19 tại các tỉnh thành. 
+* Đọc tin tức.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 155f99c (init)
