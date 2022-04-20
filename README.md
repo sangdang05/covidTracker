@@ -26,4 +26,4 @@
 ![image](https://user-images.githubusercontent.com/56111787/164131821-b609d0ab-019a-4e82-b5bd-d9dd86b11105.png)
 ![image](https://user-images.githubusercontent.com/56111787/164131827-57292a5b-024a-4cb3-a4ca-d45aa81caf01.png)
 
-### Tải file Apk [Tại đây](https://drive.google.com/file/d/1-g4iAWEmpLwCfiD9ZtXeIblngsS5OBkQ/view?usp=sharing)
+
